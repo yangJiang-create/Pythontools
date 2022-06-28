@@ -15,7 +15,7 @@ You can star this repository to keep track of the project if it's helpful for yo
 |   ConvertedToPDF |  [click](https://github.com/yangJiang-create/Pythontools/tree/main/ConvertedToPDF)  |   万物转PDF  |
 |   News |  [click](https://github.com/yangJiang-create/Pythontools/tree/main/News)  |   爬取一些热搜并定时群发给自己和朋友词云分析和热搜链接  |
 |   Dingdingrobot |  [click](https://github.com/yangJiang-create/Pythontools/tree/main/Dingdingrobot)  |  智能钉钉机器人 |
-|   musicdl-master |  [click](https://github.com/yangJiang-create/Pythontools/tree/main/musicdl-master)  |  转载-音乐下载器 |
+|   musicdl-master |  [click](https://github.com/yangJiang-create/Pythontools/tree/main/musicdl-master_Reprint)  |  转载-音乐下载器 |
 
 # More
 #### Blog
